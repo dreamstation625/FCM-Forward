@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FCM-Forward": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
